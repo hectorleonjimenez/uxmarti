@@ -1,11 +1,11 @@
 {
-  "name": "uxmarti",
+  "name": "hola_mundo",
   "version": "1.0.0",
-  "description": "repositorio proyecto nueva pagina marti.mx",
-  "main": "index.js",
+  "description": "Front end del nuevo sitio de marti.mx",
+  "main": "hello.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index"
+    "start": "node hello.js"
   },
   "repository": {
     "type": "git",
