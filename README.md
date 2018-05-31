@@ -20,10 +20,12 @@ Sencilla estructura para proyecto web de marti.mx.
 
 ## Modo de uso
 
-1. Clone este repositorio (aun no tiene instalacion por npm o yeoman)
-2. Ejecute `npm install` (asegurese de tener npm actualizado y Nodejs en v6 como minimo)
-3. Ejecute `gulp`
-4. Disfrute
+1. Descargue Node y NPM  de https://www.npmjs.com/get-npm
+2. Ejecute node -v en su terminal, para comprobar que node se instalo correctamente.
+3. Ejecute npm -v en su terminal, para comprobar que nPM se instalo correctamente.
+4. Clone este repositorio.
+5. Ejecute `npm install` en el directorio raiz.
+6. Ejecute `gulp` en el directorio raiz.
 
 ## Estructura
 
